@@ -14,7 +14,7 @@ Exercism is challenging from the very beginning, focusing not only on solving pr
 
 ---
 
-# 🛠 Tech & Tools
+# Tech & Tools
 - **Python 3.x**
 - Exercism CLI
 - GitHub for backup & progress tracking
